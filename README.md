@@ -1,6 +1,7 @@
-### Hi  👋
+### Olá, eu sou a Esther Melo!   👋
 
 seja bem-vindo 
+👩‍💻 Desenvolvedora Full-Stack em formação
   
 [![Linkedin: Esther](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/esther-melo-181b9b219/)
 
