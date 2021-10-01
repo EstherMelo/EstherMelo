@@ -4,7 +4,7 @@ seja bem-vindo
 
 👩‍💻 Desenvolvedora Full-Stack em formação
   
-[![Linkedin: Esther](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/esther-melo-181b9b219/)
+<a href="https://www.linkedin.com/in/esther-melo-181b9b219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emelo3172@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
