@@ -27,10 +27,6 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+ ![Snake animation](https://github.com/EstherMelo/paulogrillo/blob/output/github-contribution-grid-snake.svg)
 
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-generated with [Platane/snk](https://github.com/Platane/snk)
   
