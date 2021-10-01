@@ -11,7 +11,7 @@ seja bem-vindo
 
 These are some of the technologies and tools that I work with:
 
-<a href="https://github.com/EstherMelo">
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EstherMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMelo&layout=compact&langs_count=7&theme=tokyonight%22/%3E
 
