@@ -12,7 +12,7 @@ seja bem-vindo
  
  ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
